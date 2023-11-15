@@ -3,7 +3,7 @@
 ## Demo
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Online-store-selling-goods-for-the-garden/blob/main/Garden%20demo.gif" >
+<img src="https://github.com/RomanyanaSol/Pizza/blob/main/PizzaDemo.gif">
 </p>
 
 
