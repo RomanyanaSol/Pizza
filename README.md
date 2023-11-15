@@ -1,4 +1,4 @@
-# Online Store
+# Pizza online store
 
 ## Demo
 
@@ -7,34 +7,10 @@
 </p>
 
 
-## Start Project
-
-In the project directory, you can run:
-
-### `npm start`
-
-This Front-End has a separate Back-End:
-https://github.com/HaykInanc/telran_project_backend
-
-Сopy the project from the repository via the link and run it using the following commands:
-### `npm i`
-
-### `npm run dev`
-
-
-
 
 ## About The Project
 
-- online-store has categories and basket
-- there is a search on the site:  
-  - price "from-to"  
-  - discounted goods
-- sorted by:  
-  - price  
-  - discount price  
-  - title  
-- basket
+- online-store has categories, search and basket
 - responsive design
 
 <p align="center">
