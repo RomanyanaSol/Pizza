@@ -23,11 +23,15 @@
 
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width="46" height="46" alt="HTML"/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width="46" height="46" alt="CSS" /> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width="46" height="46" alt="CSS" /> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width="46" height="46" alt="CSS" />
 
-- React Router
+- TypeScript
+- Redux Toolkit (data/pizza storage)
+- React Router (navigation)
 - React Hooks
-- React Redux
-- React Thunk
-- Fetch
-
+- React Pagination 
+- Axios + Fetch (sending a request to the mockAPI backend) 
+- CSS-Modules / SCSS (stylization)
+- React Content Loader (skeleton)
+- Lodash.Debounce
+- React.lazy, useWhyDidYouUpdate
 
 
