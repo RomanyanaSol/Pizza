@@ -14,7 +14,7 @@
 - responsive design
 
 <p align="center">
-<img src="https://github.com/RomanyanaSol/Online-store-selling-goods-for-the-garden/blob/main/Responsive%20Design.gif" >
+<img src="https://github.com/RomanyanaSol/Pizza/blob/main/Responsive%20demo.gif" >
 </p>
 
 
